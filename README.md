@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Rutunjay Rao</h1>
-<h3 align="center">| A passionate Software Engineer | from India |</h3>
+<h3 align="center">| A passionate ML Engineer from India |</h3>
 
 - 🔭 I’m currently doing my B.Tech at IIT Guwahati**
 
