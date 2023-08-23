@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Check my portfolio [**here**](https://bento.me/rutunjay-rao)
 
-- 💬 Ask me about **Data Structure & Algorithms, ML/ AI and all things Quant**
+- 💬 Ask me about **Data Structure & Algorithms, ML/ AI** and all things **Quant**
 
 - 📫 How to reach me **rutunjayrao@gmail.com**
 
