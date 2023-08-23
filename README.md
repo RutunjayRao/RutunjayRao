@@ -17,25 +17,21 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Rutunjay Rao</h1>
-<h3 align="center">| A passionate ML Engineer from India |</h3>
+<h3 align="center">| A Techie passionate about Machine Learning and Quantitative Finance |</h3>
 
 - 🔭 I’m currently doing my B.Tech at IIT Guwahati
 
-- 👨‍💻 Check my portfolio [**here**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- 👨‍💻 Check my portfolio [**here**](https://bento.me/rutunjay-rao)
 
-- 💬 Ask me about **Data Structure & Algorithms, Machine Learning and all things AI**
+- 💬 Ask me about **Data Structure & Algorithms, ML/ AI and all things Quant**
 
 - 📫 How to reach me **rutunjayrao@gmail.com**
 
-- 📄 Know about my experiences [**here**](https://bento.me/rutunjay-rao)
-
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RutunjayRao&label=Profile%20views&color=0e75b6&style=flat" alt="rutunjay-profile-views" /> </p>
-
-
+- 📄 My [**resume**]()
 
 - 👨‍💻 All of my projects are available at [RutunjayRao](RutunjayRao)
+
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
